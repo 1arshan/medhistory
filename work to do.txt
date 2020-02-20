@@ -1,5 +1,9 @@
 add cotributor's email :ashar,amber,mauwaz
 start mysql sevice
 
+
 how to configure api in sql
+
+
+give this project a time bec. it will also help in placement
 
