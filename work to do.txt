@@ -1,1 +1,3 @@
-add cotributor :ashar,amber,mauwaz
+add cotributor's email :ashar,amber,mauwaz
+start mysql sevice
+
